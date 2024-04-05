@@ -5,7 +5,7 @@ const pgPromise = require("pg-promise");
 	port : '5432',
 	database: 'ingresosEgresos_db',
 	user:'postgres',
-	password: '**************'
+	password: 'Darmi1324.'
     };
 
 const pgp = pgPromise({});
